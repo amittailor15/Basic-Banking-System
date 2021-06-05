@@ -1,6 +1,7 @@
-# Basic-Banking-System
+# The Sparks Foundation Web Development Internship Project : Basic Banking System website.
 This project has been completed during my one-month Web development Internship with The Sparks Foundation.
-The Sparks Foundation Web Development Internship Project : Basic Banking System website.
+
+# Hosted Website : https://amittailor15.github.io/Basic-Banking-System/
 
 # Task assigned was as follows:
 
